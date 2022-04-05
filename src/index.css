@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
+
+*{
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family:'Inter',sans-serif;
+  color: #282c34;
+  background-color: rgb(211,211,211);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.App {
+  text-align:center;
+  height : 80vh;
+  width : 100vw;
+}
+
+.slider{
+  width : 40%;
+  height : 20%;
+  cursor : pointer;
+}
+
+.main-div{
+  pading : 2em;
+}
+
+.slidecontainer{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5em;
+}
+
+wrapper {
+  display : flex;
+  flex-direction: column;
+}
+
+button {
+   padding : 1.5em;
+   border-style: none;
+   border-radius : 5px;
+   font-weight : 500;
+   background-color : purple;
+   color : white;
+}
