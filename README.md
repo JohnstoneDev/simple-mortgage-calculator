@@ -24,4 +24,4 @@ Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 ## This is a simple mortgage calculator created using create-react-app
-It can be used to calculate monthly mortgagr payment  using the mortgage formula.
+It can be used to calculate monthly mortgage payment using the standard formula. Done to complete the Codementor.io Project of the same name.
